@@ -1,2 +1,1 @@
-# hello-world
-This is my first repository.... I'm newbie.
+This is Muhammad Mustufa from Pakistan, Karachi. I'm currently working as a Sr. Front-End Developer.
